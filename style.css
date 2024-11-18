@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(255, 227, 161);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav ul{
+    background-color: rgb(158, 121, 0);
+    border: 3px solid white;
+    border-radius: 25px;
+    padding: 20px;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+img{
+    border-radius: 30px;
+    
+    height: 100%;
+    width: 100%;
+}
+table,th,td{
+    border: 1px solid white;
+    border-collapse:collapse ;
+    text-align: center;
+
+
+}
+table{
+    width: 50%;
+}
